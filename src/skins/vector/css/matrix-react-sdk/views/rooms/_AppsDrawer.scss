@@ -35,10 +35,6 @@ limitations under the License.
     font-size: 12px;
 }
 
-.mx_AddWidget_button_full_width {
-    max-width: 960px;
-}
-
 .mx_SetAppURLDialog_input {
     border-radius: 3px;
     border: 1px solid $input-border-color;
@@ -49,7 +45,6 @@ limitations under the License.
 }
 
 .mx_AppTile {
-    max-width: 960px;
     width: 50%;
     margin-right: 5px;
     border: 1px solid $primary-hairline-color;
@@ -61,7 +56,6 @@ limitations under the License.
 }
 
 .mx_AppTileFullWidth {
-    max-width: 960px;
     width: 100%;
     margin: 0;
     padding: 0;
